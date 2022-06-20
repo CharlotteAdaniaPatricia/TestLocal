@@ -1,4 +1,4 @@
 from sqlite3 import ProgrammingError
 
 
-print("Hello There! Git is Fun"
+"Hello There! Git is Fun"
